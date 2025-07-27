@@ -17,15 +17,15 @@
 
 ### 1. Inheritance
 
-
+![WhatsApp Image 2025-07-27 at 22 05 33](https://github.com/user-attachments/assets/fba828ee-6e46-4153-a75a-ae377f4704f3)
 
 ### 2. Encapsulation
 
-
+![cabe9515-f982-48c7-bdf2-032461499929](https://github.com/user-attachments/assets/7d5e9175-fba4-446a-a007-6a68ef81520e)
 
 ### 3. Polymorphism
 
-
+<img width="346" height="72" alt="image" src="https://github.com/user-attachments/assets/48f1769a-6cd4-4130-9cde-115feee82cbb" />
 
 ### 4. Abstract
 

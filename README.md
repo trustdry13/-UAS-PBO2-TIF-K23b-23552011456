@@ -13,7 +13,24 @@
   <li>Studi Kasus  : Kasir Toko Online E-Commerce </li>
 </ul>
 
-Demo Proyek
+## Penjelasan 4 Pilar OOP dalam Studi Kasus
+
+### 1. Inheritance
+
+
+
+### 2. Encapsulation
+
+
+
+### 3. Polymorphism
+
+
+
+### 4. Abstract
+
+
+#### Demo Proyek
 
 github     : https://github.com/trustdry13/-UAS-PBO2-TIF-K23b-23552011456
 

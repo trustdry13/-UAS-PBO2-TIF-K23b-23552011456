@@ -10,6 +10,8 @@ NIM: 23552011456
 
 Studi Kasus: Kasir Toko online dengan pengelolaan diskon dan kategori produk
 
+Judul Studi Kasus :
+
 Demo Proyek
 
 github : https://github.com/trustdry13/-UAS-PBO2-TIF-K23b-23552011456

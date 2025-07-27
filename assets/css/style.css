@@ -1,0 +1,25 @@
+body {
+    padding-top: 56px;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.product-image {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
+
+.quantity-input {
+    width: 60px;
+}

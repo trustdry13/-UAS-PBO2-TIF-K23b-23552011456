@@ -1,0 +1,39 @@
+toko_online/
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+│
+├── classes/
+│   ├── Database.php
+│   ├── MetodePembayaran.php
+│   ├── Produk.php
+│   ├── Elektronik.php
+│   ├── Pakaian.php
+│   ├── Transaksi.php
+│   └── User.php
+│
+├── config/
+│   └── config.php
+│
+├── includes/
+│   ├── footer.php
+│   ├── header.php
+│   └── navbar.php
+│
+├── pages/
+│   ├── beranda.php
+│   ├── keranjang.php
+│   ├── login.php
+│   ├── produk.php
+│   ├── register.php
+│   └── transaksi.php
+│
+├── processes/
+│   ├── auth_process.php
+│   ├── cart_process.php
+│   └── transaction_process.php
+│
+└── index.php
